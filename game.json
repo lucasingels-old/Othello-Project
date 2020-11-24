@@ -1,0 +1,7 @@
+{
+	"numPlayers": 2,
+	"threads": 5,
+	"time": 4,
+	"path1": "player/parminimaxab",
+	"path2": "player/parminimaxab"
+}
