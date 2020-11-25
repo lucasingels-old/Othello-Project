@@ -54,8 +54,6 @@ or on Ubuntu by running:
 sudo apt-get install -y mpi
 ```
 
-(Alternatively an already compiled version is included just for this inteview and you can skip the compilation process and skip makeall)
-
 Open and edit the make file if running on Ubuntu. The ubuntu terminal code is present but commented out. Use the provided makefile to compile the program into an executable and the included run.sh file to run the player against itself. 
 
 ```
